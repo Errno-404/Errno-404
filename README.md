@@ -5,11 +5,11 @@
 
 
 - [About me](#about-me) 
-   - [Java projects](#java) 
-   - [C projects](#c) 
-   - [Python projects](#python) 
-   - [Databases & SQL](#dbms) 
-   - [Stats](#stats) 
+- [Java projects](#java) 
+- [C projects](#c) 
+- [Python projects](#python) 
+- [Databases & SQL](#dbms) 
+- [Stats](#stats) 
   
 
 
