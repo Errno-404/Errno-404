@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning system programming using C, OOD with some help of Java and c++.
 - ✨ In the near future I plan to learn more about Databases and how to connect them to my applications in different languages. Moreover I'd like to learn Kotlin but all in good time!
 
-<!-- navbar -->
- - [About me](#about-me) 
-    - [Java projects](#java) 
-    - [C projects](#c) 
-    - [Python projects](#python) 
-    - [Databases & SQL](#dbms) 
-    - [Stats](#stats) 
+
+- [About me](#about-me) 
+   - [Java projects](#java) 
+   - [C projects](#c) 
+   - [Python projects](#python) 
+   - [Databases & SQL](#dbms) 
+   - [Stats](#stats) 
   
- <!-- /navbar -->
+
 
 
 
