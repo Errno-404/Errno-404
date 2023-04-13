@@ -24,14 +24,14 @@ programming is my passion, so I'll always find some time to write a couple lines
 
 *to be continued*
 ### Java
-[Tower Defence](https://github.com/Errno-404/tower-defence)
-[Java & JavaFx first steps](https://github.com/Errno-404/first-javafx-project)
+- [Tower Defence](https://github.com/Errno-404/tower-defence)
+- [Java & JavaFx first steps](https://github.com/Errno-404/first-javafx-project)
 ### C & C++
 
 ### Python
-[Differential equations solver](https://github.com/Errno-404/first-javafx-project)
+- [Differential equations solver](https://github.com/Errno-404/first-javafx-project)
 ### Databases
-[Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
+- [Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
 
 ## Statistics
 
