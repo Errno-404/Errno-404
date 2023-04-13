@@ -29,6 +29,7 @@ programming is my passion, so I'll always find some time to write a couple lines
 ### C & C++
 
 ### Python
+- [Numerical methods & algorithms](https://github.com/Errno-404/mownit)
 - [Differential equations solver](https://github.com/Errno-404/first-javafx-project)
 ### Databases
 - [Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
