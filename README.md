@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning system programming using C, OOD with some help of Java and c++.
 - ✨ In the near future I plan to learn more about Databases and how to connect them to my applications in different
   languages. Moreover, I'd like to learn Kotlin but all in good time!
+- :speech_balloon: This page, as well as all my projects, will be documented much better in the near future. As soon as I complete all the work at the university... :thinking:
 
 ## My projects
 
