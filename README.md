@@ -25,6 +25,7 @@ programming is my passion, so I'll always find some time to write a couple lines
 *to be continued*
 ### Java
 [Tower Defence](https://github.com/Errno-404/tower-defence)
+[Java & JavaFx first steps](https://github.com/Errno-404/first-javafx-project)
 ### C & C++
 
 ### Python
