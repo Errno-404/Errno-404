@@ -3,10 +3,11 @@
 ## Navigation
 
 - [About me](#about-me)
-- [Java projects](#java)
-- [C projects](#c--c)
-- [Python projects](#python)
-- [Databases & SQL](#databases)
+- [Projects](#my-projects)
+  - [Java projects](#java)
+  - [C projects](#c--c)
+  - [Python projects](#python)
+  - [Databases & SQL](#databases)
 - [Statistics](#statistics)
 
 ## About me
@@ -27,7 +28,7 @@ programming is my passion, so I'll always find some time to write a couple lines
 - [Tower Defence](https://github.com/Errno-404/tower-defence)
 - [Java & JavaFx first steps](https://github.com/Errno-404/first-javafx-project)
 ### C & C++
-
+- [Operating systems programming in C](https://github.com/Errno-404/operating-systems)
 ### Python
 - [Numerical methods & algorithms](https://github.com/Errno-404/mownit)
 - [Differential equations solver](https://github.com/Errno-404/first-javafx-project)
