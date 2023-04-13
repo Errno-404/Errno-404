@@ -29,7 +29,7 @@ programming is my passion, so I'll always find some time to write a couple lines
 ### C & C++
 
 ### Python
-
+[Differential equations solver](https://github.com/Errno-404/first-javafx-project)
 ### Databases
 
 ## Statistics
