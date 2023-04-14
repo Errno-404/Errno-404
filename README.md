@@ -39,6 +39,6 @@ programming is my passion, so I'll always find some time to write a couple lines
 
 ## Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Errno-404&theme=blood&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Errno-404&theme=blood&border_radius=5)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errno-404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errno-404)](#)
