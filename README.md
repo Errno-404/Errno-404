@@ -35,7 +35,7 @@ programming is my passion, so I'll always find some time to write a couple lines
 - [Operating systems programming in C](https://github.com/Errno-404/operating-systems) (in progress)
 ### Python
 - [Numerical methods & algorithms](https://github.com/Errno-404/mownit) (in progress)
-- [Differential equations solver](https://github.com/Errno-404/first-javafx-project)
+- [Differential equations solver](https://github.com/Errno-404/differential-equations-solver)
 ### Databases
 - [Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
 
