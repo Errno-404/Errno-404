@@ -27,19 +27,19 @@ programming is my passion, so I'll always find some time to write a couple lines
 
 *to be continued*
 ### Java
+- [First 2D Game in pure Java](https://github.com/Errno-404/Java2DGame) (in progress)
 - [Tower Defence](https://github.com/Errno-404/tower-defence)
 - [Evolution simulation](https://github.com/Errno-404/evolution-simulation)
 - [Java & JavaFx first steps](https://github.com/Errno-404/first-javafx-project)
 ### C & C++
-- [Operating systems programming in C](https://github.com/Errno-404/operating-systems)
+- [Operating systems programming in C](https://github.com/Errno-404/operating-systems) (in progress)
 ### Python
-- [Numerical methods & algorithms](https://github.com/Errno-404/mownit)
+- [Numerical methods & algorithms](https://github.com/Errno-404/mownit) (in progress)
 - [Differential equations solver](https://github.com/Errno-404/first-javafx-project)
 ### Databases
 - [Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
 
-## Projects in progress
-- [First 2D Game in pure Java](https://github.com/Errno-404/Java2DGame)
+
 ## Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Errno-404&theme=blood&border_radius=5)](#statistics)
