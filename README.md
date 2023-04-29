@@ -8,6 +8,7 @@
   - [C projects](#c--c)
   - [Python projects](#python)
   - [Databases & SQL](#databases)
+  - [Assembly](#assembly-masm-8086)
 - [Projects in progress](#projects-in-progress)
 - [Statistics](#statistics)
 
@@ -40,6 +41,11 @@ programming is my passion, so I'll always find some time to write a couple lines
 - [Trip Reservation System DBMS](https://github.com/Errno-404/oracle_dbms)
 
 
+### Assembly (MASM 8086)
+- [Tests](https://github.com/Errno-404/assembly)
+
+## Projects in progress
+- [First 2D Game in pure Java](https://github.com/Errno-404/Java2DGame)
 ## Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Errno-404&theme=blood&border_radius=5)](http://github-readme-streak-stats.herokuapp.com?user=Errno-404&theme=blood&border_radius=5)
